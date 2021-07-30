@@ -1,2 +1,2 @@
-# work's todo
+# Works Todo
 This is a simple todo list software
